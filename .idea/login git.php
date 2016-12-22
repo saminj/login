@@ -12,7 +12,7 @@ if (isset($_post["submit"])){
 
 <html>
 <head>
-    <title> login </title>
+    <title> خوش امد گویی </title>
 </head>
 <body>
 
